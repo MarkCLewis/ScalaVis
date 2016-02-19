@@ -1,9 +1,0 @@
-package edu.trinity.scalavis
-
-import java.awt.Graphics2D
-import scala.swing.Component
-
-trait Plottable {
-    def render(g:Graphics2D)
-    def component():Component
-}

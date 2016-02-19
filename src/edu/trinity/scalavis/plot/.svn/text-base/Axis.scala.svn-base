@@ -1,8 +1,0 @@
-package edu.trinity.scalavis.plot
-
-case class Axis(label:Option[String],
-        tickSequence:IndexedSeq[Double],
-        transform:AxisTransform,
-        drawTicks:Boolean,
-        drawValues:Boolean) {
-}
