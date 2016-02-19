@@ -1,0 +1,12 @@
+package edu.trinity.scalavis.plot
+
+import edu.trinity.scalavis._
+import java.awt.{Graphics2D,Color,Font}
+import scala.swing.Component
+
+class PlotText(text:String,x:Double,y:Double,color:Color,font:Font) extends Plottable {
+    def render(g:Graphics2D) {
+        
+    }
+    def component():Component = null
+}

@@ -1,0 +1,13 @@
+package edu.trinity.scalavis.plot
+
+class AxisBuilder {
+    def build:Axis = Axis(Option(label),(min to max by spacing),new LinearTransform(min,max),drawTicks,drawValues)
+    
+    var label="Default"
+    var min=0.0
+    var max=1.0
+    var spacing=0.2
+    var transformType=0
+    var drawTicks=true
+    var drawValues=true
+}

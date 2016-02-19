@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/ScalaVis/src/edu/trinity/scalavis/elements
+END
+ScalaFuncMapElement.scala
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/ScalaVis/src/edu/trinity/scalavis/elements/ScalaFuncMapElement.scala
+END
+FunctionFilter.scala
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/ScalaVis/src/edu/trinity/scalavis/elements/FunctionFilter.scala
+END
+SelectionFilter.scala
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/ScalaVis/src/edu/trinity/scalavis/elements/SelectionFilter.scala
+END
